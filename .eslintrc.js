@@ -13,7 +13,4 @@ module.exports = {
   rules: {
     'linebreak-style': ['error', 'windows'],
   },
-  globals: {
-    axios: false,
-  },
 };
